@@ -37,6 +37,7 @@ Key Skills {#skills}
 - Creative problem solving
 
 
+
 Quantitative Training {#training}
 ---------------------------
 
@@ -49,43 +50,19 @@ Multivariate Methods for Ecology
 Statistics for Experimenters I & II
 
 
+*This resume was made using the **'R pagedown'** package. Link to Github repo containing the R script can be found [here](https://github.com/ShyamThomas/R_Resume)*
+
 
 Main
 ================================================================================
 
-SHYAM MATHEW THOMAS {#title}
+    SHYAM M. THOMAS {#title}
 --------------------------------------------------------------------------------
+***
 
 **Accomplished researcher with Ph.D. in ecology and 8 years of experience in leading and managing data-intensive projects. Experienced in working with diverse clients, and providing data analytic support and deliverables in time. Proficient in statistical modeling and mapping using R and ArcGIS, and code management tools such as Git. Raised more than $100K in grant money and published 12 peer-reviewed research articles.**
 
-Education {data-icon=graduation-cap data-concise=true}
---------------------------------------------------------------------------------
-
-### St. Xaviers College
-
-B.S. in Botany & Zoology
-
-Mumbai, MH, India
-
-1999
-
-
-### Oklahoma State University
-
-M.S. in Ecology
-
-Stillwater, OK, USA
-
-2006
-
-### Iowa State University
-
-Ph.D. in Ecology & Evolutionary Biology
-
-Ames, IA, USA
-
-2013
-
+***
 
 Professional Experience {data-icon=suitcase data-concise=TRUE}
 --------------------------------------------------------------------------------
@@ -134,6 +111,34 @@ Feb 2014 - Jun 2016
   auto-logistic regression models
 - Integrated landscape pattern analysis and survival analysis to quantify the
   urban-agricultural spillover of an invasive insect pest
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### St. Xaviers College
+
+B.S. in Botany & Zoology
+
+Mumbai, MH, India
+
+1999
+
+
+### Oklahoma State University
+
+M.S. in Ecology
+
+Stillwater, OK, USA
+
+2006
+
+### Iowa State University
+
+Ph.D. in Ecology & Evolutionary Biology
+
+Ames, IA, USA
+
+2013
 
 
 Grants & Awards {data-icon=star}
