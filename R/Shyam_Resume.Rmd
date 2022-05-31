@@ -1,6 +1,6 @@
 ---
-title: "Lijia Yu's resume"
-author: Lijia Yu
+title: "Shyam Thomas resume"
+author: Shyam Thomas
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -14,184 +14,218 @@ Aside
 ================================================================================
 
 
-![Lijia Yu](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%}
-
-
-Contact Info {#contact}
+Contact Info / Social Media {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> lijia.yu@outlook.com
-- <i class="fa fa-github"></i> [github.com/yulijia](https://github.com/yulijia)
-- <i class="fa fa-phone"></i> +1 000-000-0000
-- For more information, please contact me via email.
+- <i class="fa fa-phone"></i> +1 763-760-2260
+- <i class="fa fa-building-o"></i> Dept. of Fisheries, Wildlife & Conservation Biology, 2003 Upper Bufford Circle, St. Paul, MN, USA
+- <i class="fa fa-envelope"></i> thomas.shyam@gmail.com
+- <i class="fa fa-linkedin"></i> [Linkedin](https://www.linkedin.com/in/shyamthomas/)
+- <i class="fa fa-github"></i> [Github](https://github.com/shyamthomas)
+- <i class="fa fa-graduation-cap"></i> [Scholar](https://scholar.google.com/citations?user=wW8ZQ34AAAAJ&hl=en)
+- <i class="fa fa-home"></i> [Personal](https://shyamthomas.mystrikingly.com/)
 
 
-Skills {#skills}
+Key Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experienced in statistical analysis, statistical learning models, and optimization methods.
-
-- Full experience with next generation sequencing data analysis.
-
-- Highly skilled in R, Bash, Perl, Python, LaTeX
+- R
+- GIS
+- MS Office
+- Git / Github
+- Academic writing
+- Leadership & teamwork
+- Creative problem solving
 
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+This resume was made entirely in R
 
-Last updated on `r Sys.Date()`.
+Last updated on `r Sys.Date()`
 
 
 
 Main
 ================================================================================
 
-Lijia Yu {#title}
+SHYAM MATHEW THOMAS {#title}
 --------------------------------------------------------------------------------
 
-### Currently searching for a PhD student position
 
-Please note that this is a *real* resume, and I'm really looking for a PhD
-student position at the moment. I made this resume because Yihui asked me
-if I'd like to test the **pagedown** package with my resume. If you are
-interested in my background and skills, please feel free to contact me.
-
+*Accomplished researcher with Ph.D. in ecology and 8 years of experience in leading and managing data-heavy projects | Experienced in working with a diverse range of clients within the environmental sector, and providing data analytic support and deliverables | Proficient in R programming, Arc GIS, and using version control tool such as Git | Raised more than $100K in grant money and published 12 peer-reviewed research articles in international journals*
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Beijing University of Chemical Technology
+### St. Xaviers College
 
-B.S. in Information and Computing Sciences
+B.S. in Botany & Zoology
 
-Beijing, China
+Mumbai, MH, India
 
-2010
-
-Thesis: Dyadic wavelet and its application in edge detection
-
-### University of Chinese Academy of Sciences
-
-M.S. in Bioinformatics
-
-Beijing, China
-
-2014
-
-Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
+1999
 
 
-Research Experience {data-icon=laptop}
+### Oklahoma State University
+
+M.S. in Ecology
+
+Stillwater, OK, USA
+
+2006
+
+### Iowa State University
+
+Ph.D. in Ecology & Evolutionary Biology
+
+Ames, IA, USA
+
+2013
+
+
+Professional Experience {data-icon=suitcase data-concise=TRUE}
 --------------------------------------------------------------------------------
 
-### Graduate Research Assistant
+### Postdoctoral researcher
 
-Beijing Institute of Genomics, Chinese Academy of Sciences
+University of Minnesota
 
-Beijing, China
+St. Paul, MN, USA
 
-2011 - 2014
+Nov 2019 - Present
 
-- Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
-- Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
+- Wrangled, visualized, and managed large datasets ( 2-5 GB) using R Tidyverse & data.table packages, and ensured team members have  access to clean and complete data 
+- Used general additive models and random forest algorithms within a parallel computing framework that reduced computation time  by 50%
+- Incorporated spatial simulations and point pattern analyses in developing spatially-explicit predictive models
+- Created R Markdown reports to ensure reproducibility and transparency of data analysis workflows for clients and collaborators
+- Effectively used Git & GitHub to keep team members and clients informed of coding updates and changes
 
-### Bioinformatican
 
-My Health Gene Technology Co., Ltd.
+### Postdoctoral researcher
 
-Beijing, China
+Toronto Metropoliton University
 
-2015 - 2016
+Toronto,ON, Canada
 
-- Investigated how cancer cells spread to other parts of the body at the single cell level.
+Jul 2016 - Sep 2019
 
-### Visiting Scientist
+- Excelled in the use of R Tidyverse package & MS Access by taking the lead
+in managing and manipulating a large contaminant monitoring databases with >100,00 records
+- Developed piecewise structural equation models to untangle the direct and indirect effects of climate and land-use on fish mercury levels
+- Combined  Bayesian mixed-effects models and geostatistical kriging in R to develop accurate predictive models & maps of fish mercury levels
+- Successfully designed & developed a prototype data visualization dashboard for a local client using R Shiny & Leaflet packages
 
-University of Alabama at Birmingham
+### Postdoctoral researcher
 
-AL, USA
+University of California - Riverside
 
-2016 - 2018
+Riverside, CA, USA
 
-- Investigated the role of mitochondria in development of cancer.
-- Investigated the evolution of genome architecture and its role in important evolutionary events.
-- Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
-  
+Feb 2014 - Jun 2016
 
-Professional Experience {data-icon=suitcase}
+- Cleaned, integrated, and analyzed multiple monitoring datasets containing ~80,000 trap detection records spanning 6 years and 10      counties in R Studio
+- Successfully coordinated with USDA in spatial data analysis, and provided the results and insights needed to develop proactive
+  management approaches
+- Developed predictive models and risk maps of insect pest outbreaks using
+  auto-logistic regression models
+- Integrated landscape pattern analysis and survival analysis to quantify the
+  urban-agricultural spillover of an invasive insect pest
+
+Grants & Awards {data-icon=star}
+--------------------------------------------------------------------------------
+### Diversity (Virtual) Travel Award ~ US$225
+
+International Association of Landscape Ecology - North Americas, Annual (Virtual) Conference
+
+Reno, NV, USA
+
+2021
+
+### Highly Qualified Personnel Leadership Award ~ C$ 15,000
+
+India-Canada Centre for Innovative Multidisciplinary Partnerships to Accelerate Community Transformation and Sustainability
+
+Vancouver, BC, Canada
+
+2019
+
+### Best in Science Grant ~ C$ 99,600
+
+Ontario Ministry of Environment & Climate Change (MOECC)
+
+Ontario, Canda
+
+2017
+
+### DNR Short-term research grant ~ US$ 3,039
+
+Minnesota Department of Natural Resources
+
+St. Paul, MN, USA
+
+2011
+
+
+Quantitative Courses / Workshops {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Data Scientist, intern
+### Statistics for Experimenters I & II
 
-SupStat Inc.
+Oklahoma State University
 
-Beijing, China
+Stillwater, OK,  USA
 
-2014
+2003 - 2004
 
-::: concise
-- Taught R language to beginners. 
-- Wrote Shiny app demos.
-- Converted statistical tutorials from SPSS to R language.
-:::
+### Multivariate Methods for Ecology
 
-### Bioinformatician
+Oklahoma State University
 
-My Health Gene Technology Co., Ltd.
+Stillwater, OK,  USA
 
-Beijing, China
+2005
 
-2015 - 2016
+### Matrices & Linear Algebra
 
-::: concise
-- Analyzed whole-exome sequencing data. 
-- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
-- Studied tumor metastasis and wrote research reports. 
-- Also did case studies to identify the genetic defect causing rare disease.
-:::
+Iowa State University
+
+Ames, IA, USA
+
+2007
+
+### Statistics for Spatial Data
+
+Iowa State University
+
+Ames, IA, USA
+
+2008
+
+### GIS for Natural Resource Management
+
+Iowa State University
+
+Ames, IA, USA
+
+2008
+
+### Agent-based Modeling in Ecology
+
+Dresden University of Technology
+
+Dresden, Germany
+
+2009
+
+### Intensive Course in Path Analyses & Structural Equation Modeling
+
+University of Sherbrooke
+
+Sherbrooke, Canada
+
+2018
 
 
-Teaching Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
 
-### Introduction to R Language for Beginners.
-
-Instructor of R and Data Mining Training Courses at SupStat Inc.
-
-Beijing, China
-
-2014
-
-### Computational Biology and Bioinformatics.
-
-Teaching assistant of GBS CB2-201 courses at UAB
-
-AL, USA
-
-2016 - 2017
-
-
-Selected Publications and Posters {data-icon=file}
---------------------------------------------------------------------------------
-
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
-
-Poster for 2013 International Conference of Genomics
-
-Qingdao, China
-
-2014
-
-**Yu L**, Chen B, Zhang Z.
-
-### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
-
-J Cell Sci. 2016 May 15;129(10):2075-84.
-
-N/A
-
-2016 
-
-Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
