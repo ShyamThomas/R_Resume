@@ -13,8 +13,7 @@ output:
 Aside
 ================================================================================
 
-
-Contact Info / Social Media {#contact}
+Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-phone"></i> +1 763-760-2260
@@ -38,12 +37,16 @@ Key Skills {#skills}
 - Creative problem solving
 
 
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
+Quantitative Training {#training}
+---------------------------
 
-This resume was made entirely in R
-
-Last updated on `r Sys.Date()`
+Matrices & Linear Algebra
+Statistics for Spatial Data
+Structural Equation Modeling  
+GIS for Natural Resource Mgt.
+Agent-based Modeling in Ecology
+Multivariate Methods for Ecology
+Statistics for Experimenters I & II
 
 
 
@@ -53,8 +56,7 @@ Main
 SHYAM MATHEW THOMAS {#title}
 --------------------------------------------------------------------------------
 
-
-*Accomplished researcher with Ph.D. in ecology and 8 years of experience in leading and managing data-heavy projects | Experienced in working with a diverse range of clients within the environmental sector, and providing data analytic support and deliverables | Proficient in R programming, Arc GIS, and using version control tool such as Git | Raised more than $100K in grant money and published 12 peer-reviewed research articles in international journals*
+**Accomplished researcher with Ph.D. in ecology and 8 years of experience in leading and managing data-intensive projects. Experienced in working with diverse clients, and providing data analytic support and deliverables in time. Proficient in statistical modeling and mapping using R and ArcGIS, and code management tools such as Git. Raised more than $100K in grant money and published 12 peer-reviewed research articles.**
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -133,11 +135,12 @@ Feb 2014 - Jun 2016
 - Integrated landscape pattern analysis and survival analysis to quantify the
   urban-agricultural spillover of an invasive insect pest
 
+
 Grants & Awards {data-icon=star}
 --------------------------------------------------------------------------------
 ### Diversity (Virtual) Travel Award ~ US$225
 
-International Association of Landscape Ecology - North Americas, Annual (Virtual) Conference
+International Association of Landscape Ecology, Annual Conference
 
 Reno, NV, USA
 
@@ -153,7 +156,7 @@ Vancouver, BC, Canada
 
 ### Best in Science Grant ~ C$ 99,600
 
-Ontario Ministry of Environment & Climate Change (MOECC)
+Ontario Ministry of Environment & Climate Change
 
 Ontario, Canda
 
@@ -167,65 +170,47 @@ St. Paul, MN, USA
 
 2011
 
-
-Quantitative Courses / Workshops {data-icon=chalkboard-teacher}
+Recent Publications {data-icon=file}
 --------------------------------------------------------------------------------
+### Quantifying spillover of an urban invasive vector of plant disease: Asian citrus psyllid (Diaphorina citri) in California citrus
 
-### Statistics for Experimenters I & II
+Frontiers in Insect Science
 
-Oklahoma State University
+N/A
 
-Stillwater, OK,  USA
+2022
 
-2003 - 2004
+### Species distribution models for invasive Eurasian watermilfoil highlight the importance of data quality and limitations of discrimination accuracy metrics
 
-### Multivariate Methods for Ecology
+Ecology & Evolution 
 
-Oklahoma State University
+N/A
 
-Stillwater, OK,  USA
+2021
 
-2005
+### Climate and landscape conditions indirectly affect fish mercury levels by altering lake water chemistry and fish size
 
-### Matrices & Linear Algebra
+Environmental Research
 
-Iowa State University
+N/A
 
-Ames, IA, USA
+2020
 
-2007
+Professional & Community Services {data-icon=gear}
+--------------------------------------------------------------------------------
+### Member of Equity, Inclusion, and Diversity Committee
 
-### Statistics for Spatial Data
+International Association of Landscape Ecology
 
-Iowa State University
+N/A 
 
-Ames, IA, USA
-
-2008
-
-### GIS for Natural Resource Management
-
-Iowa State University
-
-Ames, IA, USA
-
-2008
-
-### Agent-based Modeling in Ecology
-
-Dresden University of Technology
-
-Dresden, Germany
-
-2009
-
-### Intensive Course in Path Analyses & Structural Equation Modeling
-
-University of Sherbrooke
-
-Sherbrooke, Canada
-
-2018
+Current
 
 
+### LAND journal reviewer board member
 
+MDPI
+
+N/A
+
+Current
