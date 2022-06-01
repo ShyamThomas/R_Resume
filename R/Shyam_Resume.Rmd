@@ -12,7 +12,6 @@ output:
 
 Aside
 ================================================================================
-
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
@@ -36,33 +35,26 @@ Key Skills {#skills}
 - Leadership & teamwork
 - Creative problem solving
 
-
-
-Quantitative Training {#training}
----------------------------
+Quantitative Coursework {#training}
+----------------------------------------------------------------------
 
 Matrices & Linear Algebra
-Statistics for Spatial Data
+Statistics for Spatial Data  
 Structural Equation Modeling  
-GIS for Natural Resource Mgt.
-Agent-based Modeling in Ecology
-Multivariate Methods for Ecology
-Statistics for Experimenters I & II
+GIS for Natural Resource Mgt.       
+Agent-based Modeling in Ecology     
+Multivariate Methods for Ecology     
+Statistics for Experimenters I & II     
 
 
-*This resume was made using the **'R pagedown'** package. Link to Github repo containing the R script can be found [here](https://github.com/ShyamThomas/R_Resume)*
+*This resume was made in **R** using the **pagedown** package.*
 
 
 Main
 ================================================================================
-
     SHYAM M. THOMAS {#title}
 --------------------------------------------------------------------------------
-***
-
 **Accomplished researcher with Ph.D. in ecology and 8 years of experience in leading and managing data-intensive projects. Experienced in working with diverse clients, and providing data analytic support and deliverables in time. Proficient in statistical modeling and mapping using R and ArcGIS, and code management tools such as Git. Raised more than $100K in grant money and published 12 peer-reviewed research articles.**
-
-***
 
 Professional Experience {data-icon=suitcase data-concise=TRUE}
 --------------------------------------------------------------------------------
@@ -80,7 +72,6 @@ Nov 2019 - Present
 - Incorporated spatial simulations and point pattern analyses in developing spatially-explicit predictive models
 - Created R Markdown reports to ensure reproducibility and transparency of data analysis workflows for clients and collaborators
 - Effectively used Git & GitHub to keep team members and clients informed of coding updates and changes
-
 
 ### Postdoctoral researcher
 
@@ -123,7 +114,6 @@ Mumbai, MH, India
 
 1999
 
-
 ### Oklahoma State University
 
 M.S. in Ecology
@@ -140,10 +130,9 @@ Ames, IA, USA
 
 2013
 
-
 Grants & Awards {data-icon=star}
 --------------------------------------------------------------------------------
-### Diversity (Virtual) Travel Award ~ US$225
+### Diversity (Virtual) Travel Award ~ US$ 225
 
 International Association of Landscape Ecology, Annual Conference
 
@@ -177,25 +166,25 @@ St. Paul, MN, USA
 
 Recent Publications {data-icon=file}
 --------------------------------------------------------------------------------
-### Quantifying spillover of an urban invasive vector of plant disease: Asian citrus psyllid (Diaphorina citri) in California citrus
+### Quantifying spillover of an urban invasive vector of plant disease: Asian citrus psyllid (Diaphorina citri) in California citrus [Frontiers in Insect Science](https://www.frontiersin.org/articles/10.3389/finsc.2022.783285/full)
 
-Frontiers in Insect Science
+N/A 
 
 N/A
 
 2022
 
-### Species distribution models for invasive Eurasian watermilfoil highlight the importance of data quality and limitations of discrimination accuracy metrics
+### Species distribution models for invasive Eurasian watermilfoil highlight the importance of data quality and limitations of discrimination accuracy metrics [Ecology & Evolution](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.8002) 
 
-Ecology & Evolution 
+N/A
 
 N/A
 
 2021
 
-### Climate and landscape conditions indirectly affect fish mercury levels by altering lake water chemistry and fish size
+### Climate and landscape conditions indirectly affect fish mercury levels by altering lake water chemistry and fish size [Environmental Research](https://www.sciencedirect.com/science/article/abs/pii/S0013935120306435)
 
-Environmental Research
+N/A
 
 N/A
 
@@ -214,7 +203,7 @@ Current
 
 ### LAND journal reviewer board member
 
-MDPI
+N/A
 
 N/A
 
