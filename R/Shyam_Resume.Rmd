@@ -4,8 +4,9 @@ author: Shyam Thomas
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
-    # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: false
+        # set it to true for a self-contained HTML page but it'll take longer to render
+        css: ['override.css', 'resume']
+        self_contained: false
 # uncomment this line to produce HTML and PDF in RStudio:
 #knit: pagedown::chrome_print
 ---
@@ -16,8 +17,8 @@ Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-phone"></i> +1 763-760-2260
-- <i class="fa fa-building-o"></i> Dept. of Fisheries, Wildlife & Conservation Biology, 2003 Upper Bufford Circle, St. Paul, MN, USA
 - <i class="fa fa-envelope"></i> thomas.shyam@gmail.com
+- <i class="fa fa-building-o"></i> Dept. of Fisheries, Wildlife & Conservation Biology, 2003 Upper Bufford Circle, St. Paul, MN, USA
 - <i class="fa fa-linkedin"></i> [Linkedin](https://www.linkedin.com/in/shyamthomas/)
 - <i class="fa fa-github"></i> [Github](https://github.com/shyamthomas)
 - <i class="fa fa-graduation-cap"></i> [Scholar](https://scholar.google.com/citations?user=wW8ZQ34AAAAJ&hl=en)
@@ -54,7 +55,7 @@ Main
 ================================================================================
     SHYAM M. THOMAS {#title}
 --------------------------------------------------------------------------------
-**Accomplished researcher with Ph.D. in ecology and 8 years of experience in leading and managing data-intensive projects. Experienced in working with diverse clients, and providing data analytic support and deliverables in time. Proficient in statistical modeling and mapping using R and ArcGIS, and code management tools such as Git. Raised more than $100K in grant money and published 12 peer-reviewed research articles.**
+**Accomplished researcher with Ph.D. in ecology and 8 years of experience in leading and managing data-intensive projects. Experienced in working with diverse clients, and providing data analytic support and deliverables in time. Proficient in statistical analyses, modeling and mapping using R and ArcGIS, and code management tools such as Git. Raised more than $100K in grant money and published 12 peer-reviewed research articles.**
 
 Professional Experience {data-icon=suitcase data-concise=TRUE}
 --------------------------------------------------------------------------------
@@ -96,12 +97,14 @@ Riverside, CA, USA
 Feb 2014 - Jun 2016
 
 - Cleaned, integrated, and analyzed multiple monitoring datasets containing ~80,000 trap detection records spanning 6 years and 10      counties in R Studio
-- Successfully coordinated with USDA in spatial data analysis, and provided the results and insights needed to develop proactive
-  management approaches
+- Successfully coordinated with USDA in spatial data analysis, and provided the results and insights needed for proactive
+  management
 - Developed predictive models and risk maps of insect pest outbreaks using
   auto-logistic regression models
 - Integrated landscape pattern analysis and survival analysis to quantify the
   urban-agricultural spillover of an invasive insect pest
+  
+  <!-- 2 PAGE RESUME ENDS HERE!! -->
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -203,7 +206,7 @@ Current
 
 ### LAND journal reviewer board member
 
-N/A
+MDPI
 
 N/A
 
